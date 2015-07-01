@@ -1,6 +1,6 @@
 1
 00:00:04,910 --> 00:00:06,890
-Welcome to MuseScore in Minutes. 
+Welcome to MuseScore in Minutes
 
 2
 00:00:07,080 --> 00:00:11,400
@@ -9,13 +9,13 @@ you up and running with MuseScore 2.0
 
 3
 00:00:11,400 --> 00:00:14,300
-I'm Dr. George Hess and in each of 
+I'm Dr. George Hess and in each of
 these videos will look at how to use
 
 4
 00:00:14,300 --> 00:00:19,540
-some of the basic functions of the 
-exciting new version of this program.
+some of the basic functions of the
+exciting new version of this program
 
 5
 00:00:19,540 --> 00:00:23,040
@@ -29,7 +29,7 @@ that's a great alternative to Finale and Sibelius
 7
 00:00:26,480 --> 00:00:31,300
 You can download it for free
-at the website shown on the screen.
+at the website shown on the screen
 
 8
 00:00:34,720 --> 00:00:37,840

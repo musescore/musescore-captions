@@ -33,7 +33,7 @@ at the website shown on the screen
 
 8
 00:00:34,400 --> 00:00:38,400
-Lesson 7: Tablature and Drum Notation
+Lesson 7 - Tablature and Drum Notation
 
 9
 00:00:39,400 --> 00:00:42,660
@@ -235,5 +235,5 @@ and then B one more time
 54
 00:04:02,000 --> 00:04:06,860
 So now is our basic rhythm section parts entered,
-where we did create the rest of our arrangement
+we’re ready to create the rest of our arrangement
 
