@@ -1,0 +1,239 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,400 --> 00:00:38,400
+Lesson 7: Tablature and Drum Notation
+
+9
+00:00:39,400 --> 00:00:42,660
+We are going to use the lead sheet now,
+to create a simple arrangement
+
+10
+00:00:42,710 --> 00:00:45,470
+I have copied the music into a new score
+
+11
+00:00:45,470 --> 00:00:49,610
+Next we’ll enter the notes for the guitar,
+bass and drums in the 1st measure
+
+12
+00:00:50,360 --> 00:00:53,840
+You can enter notes on either the standard staff
+or the tab staff
+
+13
+00:00:53,840 --> 00:00:57,560
+And since they are linked, they show up on both staves
+
+14
+00:00:57,579 --> 00:01:01,099
+To enter notes in the tab staff, click the 1st measure
+
+15
+00:01:02,100 --> 00:01:04,000
+Then enter the Note Input mode
+
+16
+00:01:05,280 --> 00:01:09,500
+Choose the note value with the mouse
+You can't use the shortcut here
+
+17
+00:01:10,120 --> 00:01:12,280
+You are going to use the up and down arrow keys
+
+18
+00:01:12,280 --> 00:01:14,079
+to move to the different strings
+
+19
+00:01:14,079 --> 00:01:16,139
+We are going to move to the 5th string
+
+20
+00:01:16,139 --> 00:01:20,339
+And then you type the fret number,
+using the number keys
+
+21
+00:01:21,740 --> 00:01:23,500
+To advance use the right arrow
+
+22
+00:01:36,380 --> 00:01:41,000
+Now I'm doing this a little bit differently and notice that
+I have only entered the notes on the 5th string
+
+23
+00:01:41,060 --> 00:01:44,660
+Now I'm going to use the arrow keys
+to move to the 6th string
+
+24
+00:01:48,280 --> 00:01:55,220
+And then I'm going to place an E, an open note,
+typing 0 on each downbeat
+
+25
+00:02:00,660 --> 00:02:05,380
+Next I will enter the 8th notes in the bass,
+using step entry
+
+26
+00:02:13,200 --> 00:02:17,450
+Drum notation can be introduced using the keyboard
+or the MIDI keyboard
+
+27
+00:02:17,650 --> 00:02:21,310
+Select the drum staff, then enter Note Input mode
+
+28
+00:02:22,150 --> 00:02:25,220
+You see the mapping of the drums
+on the bottom of the screen
+
+29
+00:02:26,260 --> 00:02:29,319
+We will enter a simple beat with hi-hat,
+snare and kick drum
+
+30
+00:02:30,080 --> 00:02:33,700
+In drum notation the hi-hat and the snare
+will have the stems going up
+
+31
+00:02:33,709 --> 00:02:36,319
+The base drum will have the stems going down
+
+32
+00:02:36,319 --> 00:02:38,290
+MuseScore will handle this automatically
+
+33
+00:02:39,620 --> 00:02:42,000
+We will enter the hi-hat first
+
+34
+00:02:42,000 --> 00:02:43,140
+Enter Note Input mode
+
+35
+00:02:44,820 --> 00:02:45,980
+and then select the 8th note
+
+36
+00:02:47,500 --> 00:02:51,880
+You notice then in the drum map
+that the hi-hat has been assigned the shortcut G
+
+37
+00:02:52,320 --> 00:02:55,700
+So we can just type G and it will enter the note
+
+38
+00:02:57,460 --> 00:03:00,700
+You can also type any key on the MIDI keyboard
+
+39
+00:03:03,080 --> 00:03:07,179
+While the note is selected in the drum map,
+and it will enter as well
+
+40
+00:03:07,239 --> 00:03:10,599
+To add the snare drum,
+use the left arrow key to move to beat 2
+
+41
+00:03:11,890 --> 00:03:17,739
+You’ll see down in the drum map,
+that the shortcut for snare drum is A
+
+42
+00:03:17,739 --> 00:03:20,379
+Hold the Shift key down and type A
+
+43
+00:03:21,540 --> 00:03:24,560
+Then move to beat 4 and do the same thing
+
+44
+00:03:25,950 --> 00:03:27,620
+Now for the kick drum
+
+45
+00:03:27,620 --> 00:03:30,340
+You notice that the kick drum note is shown in green
+
+46
+00:03:30,340 --> 00:03:33,430
+This means it will be entered in voice 2
+
+47
+00:03:33,430 --> 00:03:35,310
+Use the arrow key to move to beat one
+
+48
+00:03:39,060 --> 00:03:40,440
+Type 5 for quarter note
+
+49
+00:03:42,260 --> 00:03:43,980
+and then B
+
+50
+00:03:47,580 --> 00:03:53,280
+Now type 4 to change that to an 8th rest and 0
+
+51
+00:03:55,140 --> 00:03:56,220
+Now type B again
+
+52
+00:03:57,400 --> 00:03:58,240
+type 5
+
+53
+00:03:58,880 --> 00:04:00,880
+and then B one more time
+
+54
+00:04:02,000 --> 00:04:06,860
+So now is our basic rhythm section parts entered,
+where we did create the rest of our arrangement
+

@@ -1,0 +1,310 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,340 --> 00:00:38,040
+Lesson 11: Layout and Parts
+
+9
+00:00:39,140 --> 00:00:42,300
+With everything entered,
+we can now turn our attention to the layout
+
+10
+00:00:42,840 --> 00:00:47,900
+Let's start by setting the view to one or two pages,
+depending on your screen size
+
+11
+00:00:51,500 --> 00:00:53,900
+You can see we have a number of problems
+
+12
+00:00:53,900 --> 00:00:56,520
+The systems are not centered on the page
+
+13
+00:00:57,160 --> 00:01:00,300
+Our chord symbols are overlapping the stems here
+
+14
+00:01:01,820 --> 00:01:06,660
+The first ending is split between two systems,
+that is usually not a good idea
+
+15
+00:01:08,840 --> 00:01:12,460
+And then we have
+the dreaded hanging system at the end
+
+16
+00:01:14,800 --> 00:01:16,960
+Let's start with the chord symbols
+
+17
+00:01:16,960 --> 00:01:18,960
+They are little to far away from the staff
+
+18
+00:01:19,500 --> 00:01:21,220
+We can adjust that globally
+
+19
+00:01:21,220 --> 00:01:24,020
+Go up to the Style menu, select General
+
+20
+00:01:25,540 --> 00:01:32,100
+Chord Symbols, and then reduce
+the default vertical position to one and a half spaces
+
+21
+00:01:32,110 --> 00:01:35,450
+Click Apply, then OK
+
+22
+00:01:36,760 --> 00:01:38,220
+That solved some of the problems
+
+23
+00:01:38,220 --> 00:01:43,030
+But there is still not enough space 
+between the base and the tab-staff
+
+24
+00:01:43,030 --> 00:01:46,890
+We could increase that globally too,
+but then it would affect all staves
+
+25
+00:01:46,890 --> 00:01:50,580
+Since we only need to increase the space
+between those two staves
+
+26
+00:01:50,580 --> 00:01:53,540
+we use the tools in the Breaks & Spacers palette
+
+27
+00:01:57,120 --> 00:02:01,400
+There are two spacers tools:
+one for up and one for down
+
+28
+00:02:01,400 --> 00:02:05,960
+Select the spacer up
+and then drag it into the middle of the staff
+
+29
+00:02:07,220 --> 00:02:10,080
+They will automatically increase the space
+
+30
+00:02:10,090 --> 00:02:11,870
+You have to do it for each system
+
+31
+00:02:17,400 --> 00:02:20,520
+If you need more space, double click on the spacer
+
+32
+00:02:22,180 --> 00:02:25,600
+Click on the handle and drag it up or down
+
+33
+00:02:28,180 --> 00:02:31,840
+The next step is to reduce the size of the notation
+
+34
+00:02:31,840 --> 00:02:34,500
+That should solve a lot of the other problems
+
+35
+00:02:34,500 --> 00:02:37,000
+Select page settings from the Layout menu
+
+36
+00:02:39,600 --> 00:02:44,960
+and reduce the scaling
+until you see three systems on the first page
+
+37
+00:02:46,900 --> 00:02:50,260
+Now, while we are here, let's go ahead
+and increase the page margins
+
+38
+00:02:50,260 --> 00:02:56,300
+Let's do the odd page first, page 1,
+and increase that to 15
+
+39
+00:02:56,300 --> 00:03:00,240
+and on the even page, page 2, we are going
+to increase it to 25
+
+40
+00:03:04,200 --> 00:03:05,100
+Click OK
+
+41
+00:03:06,820 --> 00:03:10,320
+And you can see that most of our problems
+have been taken care of
+
+42
+00:03:10,320 --> 00:03:13,120
+But it would be better if it used all of both pages
+
+43
+00:03:13,620 --> 00:03:16,360
+Let's start by moving the coda to a new system
+
+44
+00:03:17,280 --> 00:03:19,280
+In the breaks and spacers palette
+
+45
+00:03:20,040 --> 00:03:21,780
+Click on the system break tool
+
+46
+00:03:22,040 --> 00:03:24,520
+and drag it to the measure right before the coda
+
+47
+00:03:26,520 --> 00:03:29,320
+Now use the same tool to move measures around
+
+48
+00:03:29,320 --> 00:03:34,400
+So that we have the melody on one page
+and the solo on the second page
+
+49
+00:03:37,580 --> 00:03:39,300
+And then balance it out
+
+50
+00:03:43,100 --> 00:03:45,120
+It's common to invent a coda
+
+51
+00:03:47,300 --> 00:03:49,300
+Select the first measure of the coda
+
+52
+00:03:50,020 --> 00:03:54,800
+Go up to the Add menu, select Frames,
+Insert Horizontal Frame
+
+53
+00:03:57,360 --> 00:04:01,120
+A last step in layout is to look it over carefully
+for any overlapping entries
+
+54
+00:04:01,120 --> 00:04:03,680
+or other things that should be adjusted
+
+55
+00:04:04,400 --> 00:04:07,040
+The title and the composer need to be moved
+
+56
+00:04:07,660 --> 00:04:10,780
+We click on the that, use the horizontal offset
+
+57
+00:04:12,680 --> 00:04:13,600
+Center it
+
+58
+00:04:17,320 --> 00:04:21,600
+Move it up a little bit
+or move the composer down a little bit
+
+59
+00:04:26,400 --> 00:04:29,340
+Now zoom in and scan the score
+
+60
+00:04:29,340 --> 00:04:34,240
+Don't worry about any of the non-printing characters
+like spacers or page breaks
+
+61
+00:04:51,000 --> 00:04:54,220
+To create parts, select Parts from the File menu
+
+62
+00:04:55,460 --> 00:04:57,920
+Click New All and then OK
+
+63
+00:05:00,920 --> 00:05:03,480
+You have a separate tab now for each part
+
+64
+00:05:04,440 --> 00:05:07,060
+The parts are dynamically linked to the score
+
+65
+00:05:07,060 --> 00:05:11,700
+Any changes to entries on the part
+will be reflected in the score and vice-versa
+
+66
+00:05:12,020 --> 00:05:15,140
+And the layout including the offset is independent
+
+67
+00:05:15,540 --> 00:05:19,540
+Parts will be saved automatically,
+when you save your file too
+
+68
+00:05:21,680 --> 00:05:26,380
+This is the last video
+in the introductory series on MuseScore 2.0
+
+69
+00:05:26,380 --> 00:05:30,240
+I hope you have enjoyed it
+and now you are on your way to be a power user
+
+70
+00:05:30,240 --> 00:05:34,400
+We still be posting tips and tricks along
+the way so we hope to see you again soon
+

@@ -1,0 +1,228 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,120 --> 00:00:37,980
+Lesson 9: Repeats and Endings, Part 2
+
+9
+00:00:38,880 --> 00:00:41,510
+Now we take a look at some other types of repeats
+
+10
+00:00:41,579 --> 00:00:45,739
+It's pretty common,
+when you have measures repeating exactly like this
+
+11
+00:00:45,739 --> 00:00:48,999
+to use one measure repeat instead of writing it all out
+
+12
+00:00:48,999 --> 00:00:51,399
+So I'm going to select and delete all of those measures
+
+13
+00:00:52,340 --> 00:00:55,860
+And I'm going to Repeats & Jumps Palettes
+
+14
+00:00:55,860 --> 00:01:01,940
+and drag a one bar repeat
+into a rhythm section instruments
+
+15
+00:01:03,329 --> 00:01:07,390
+Now I select that measure, use the R key to repeat it
+
+16
+00:01:07,390 --> 00:01:10,650
+We can do that also in measure 6 and 8
+
+17
+00:01:11,899 --> 00:01:14,310
+Now let's have a solo section
+
+18
+00:01:14,310 --> 00:01:18,039
+We use our rhythm section parts and so,
+just copy the first 12 measures
+
+19
+00:01:21,460 --> 00:01:23,980
+and click in measure 15
+
+20
+00:01:25,329 --> 00:01:26,349
+and paste it
+
+21
+00:01:26,899 --> 00:01:32,859
+Over there is probably not a bad idea 
+to put a double bar line in, to make things clear
+
+22
+00:01:34,920 --> 00:01:37,490
+Next we will fill the saxophone part with slashes
+
+23
+00:01:40,760 --> 00:01:42,680
+Go up to the Edit Menu
+
+24
+00:01:42,680 --> 00:01:45,860
+Select Tools, Fill With Slashes
+
+25
+00:01:48,040 --> 00:01:51,660
+After the solo we return to the head,
+before jumping to the ending
+
+26
+00:01:51,670 --> 00:01:55,930
+I want to place a double bar at the end of the solo
+
+27
+00:01:57,860 --> 00:01:59,400
+And we will go to the Repeat Palette
+
+28
+00:01:59,400 --> 00:02:02,940
+and select “D.S. al Coda”
+to take us back to the first measure measure
+
+29
+00:02:08,820 --> 00:02:11,580
+Then I put a sign in measure 1
+
+30
+00:02:14,680 --> 00:02:17,240
+We jump to the coda after measure 8
+
+31
+00:02:17,250 --> 00:02:20,230
+So put the “To Coda” sign there
+
+32
+00:02:24,440 --> 00:02:28,000
+And we haven't actually created a coda yet,
+but we know where it's going to be
+
+33
+00:02:28,000 --> 00:02:33,760
+So it's going ahead and move down there
+and we will place the coda sign
+
+34
+00:02:33,760 --> 00:02:35,940
+at the first empty measure
+
+35
+00:02:37,799 --> 00:02:43,619
+Finaly I'm going to copy a couple of measures
+and the word coda
+
+36
+00:02:53,100 --> 00:02:56,300
+And we go ahead
+and enter a couple of notes to take us out
+
+37
+00:03:01,360 --> 00:03:05,980
+One last thing we should do is copy the chord symbols
+to the guitar and the bass
+
+38
+00:03:05,989 --> 00:03:13,530
+Select the first chord symbol, right click
+and then Select, All Similar Elements
+
+39
+00:03:13,530 --> 00:03:17,409
+Now thats going to cause a little bit of a problem
+because of these last two
+
+40
+00:03:17,409 --> 00:03:20,029
+and so I'm going to hold the command key
+
+41
+00:03:20,930 --> 00:03:25,079
+and select those to delete them from our selection
+
+42
+00:03:25,079 --> 00:03:27,199
+Now I can copy and paste these
+
+43
+00:03:28,100 --> 00:03:31,500
+Actually I'm going to cut them from the tenor
+cause I don't need them there
+
+44
+00:03:31,740 --> 00:03:33,740
+I’m going to select the first measure here
+
+45
+00:03:34,780 --> 00:03:37,620
+and then I select the first measure of the bass
+
+46
+00:03:39,220 --> 00:03:40,580
+and past them in
+
+47
+00:03:42,240 --> 00:03:43,760
+and I will do the same thing
+
+48
+00:03:46,040 --> 00:03:48,500
+for all of the solo section
+
+49
+00:03:53,660 --> 00:03:55,560
+We have a couple of extra measures at the end
+
+50
+00:03:55,569 --> 00:03:57,609
+Let's go ahead and get rid of those
+
+51
+00:03:58,440 --> 00:04:04,879
+Select those and go to the Edit menu, Measure,
+Delete Selected Measures
+
+52
+00:04:04,879 --> 00:04:07,119
+There are arrangements also though
+

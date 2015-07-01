@@ -1,0 +1,245 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,640 --> 00:00:38,200
+Lesson 10: Articulations, Dynamics and Text
+
+9
+00:00:39,880 --> 00:00:45,220
+With all of the notes and chords entered,
+we can now turn our attention to express the details
+
+10
+00:00:45,220 --> 00:00:47,090
+All of these entries come from the palette
+
+11
+00:00:47,100 --> 00:00:50,880
+There are few also found in the Add menu as well
+
+12
+00:00:50,880 --> 00:00:53,640
+Some also have shortcuts assigned
+
+13
+00:00:54,739 --> 00:00:57,380
+The pallet entries are attached to notes
+
+14
+00:00:57,380 --> 00:01:00,640
+Select the note first
+and double click the item in the pallet
+
+15
+00:01:01,329 --> 00:01:04,049
+Let's start by entering some dynamics at the beginning
+
+16
+00:01:21,120 --> 00:01:24,720
+You can adjust the dynamics by dragging them
+
+17
+00:01:25,860 --> 00:01:31,700
+But it's usually better to go over here
+and use the inspector and use the offsets
+
+18
+00:01:36,320 --> 00:01:40,320
+Staccato is one of the articulations,
+that has a shortcut assigned
+
+19
+00:01:40,630 --> 00:01:44,030
+Click on a note and type Shift+S
+
+20
+00:01:45,360 --> 00:01:49,060
+it's a toggle so if you type Shift+S again, it'll be removed
+
+21
+00:01:49,999 --> 00:01:53,639
+You can assign more than one articulation to a note
+
+22
+00:01:53,639 --> 00:01:59,459
+Put the staccato back and go over here,
+to the Articulations & Ornaments palette
+
+23
+00:01:59,459 --> 00:02:05,130
+and while that note is still selected,
+I'll doubleclick the accent and it will replace it direct too
+
+24
+00:02:07,720 --> 00:02:10,920
+Fermatas are also in the articulations palette
+
+25
+00:02:10,929 --> 00:02:14,909
+We can enter them into all staves at once
+by selecting the notes
+
+26
+00:02:17,660 --> 00:02:19,120
+and then double clicking the fermata
+
+27
+00:02:20,780 --> 00:02:24,020
+You see that there is an extra one 
+because we have two voices in the drums
+
+28
+00:02:24,030 --> 00:02:26,350
+Just click on that and delete it
+
+29
+00:02:27,060 --> 00:02:30,720
+While we are here, let's go ahead
+and add a role to the last symbol
+
+30
+00:02:31,960 --> 00:02:35,080
+Select a note, select the Tremolo
+
+31
+00:02:37,460 --> 00:02:38,640
+Double click
+
+32
+00:02:38,909 --> 00:02:41,750
+And let's add an arpeggio to this chord
+
+33
+00:02:46,540 --> 00:02:52,620
+I'd also like to add a decrescendo right here
+on this very last line
+
+34
+00:02:52,620 --> 00:02:56,500
+And it's a line, so I select the palette, double click it
+
+35
+00:02:58,400 --> 00:03:03,280
+and then use Shift+Right to extend it
+to the end of the line
+
+36
+00:03:05,430 --> 00:03:09,870
+Slurs are also in the Line palette
+and are entered in the same way
+
+37
+00:03:09,870 --> 00:03:18,819
+Doubleclick and then use the right arrow key
+to extend it to the end of the line
+
+38
+00:03:18,819 --> 00:03:23,719
+You notice that there are handles here 
+and this will let you adjust the ark
+
+39
+00:03:25,740 --> 00:03:32,780
+A various types of text can be entered from the palette,
+the Add menu or using a shortcut
+
+40
+00:03:33,920 --> 00:03:36,260
+One special text entry is Swing
+
+41
+00:03:37,540 --> 00:03:40,340
+Entered the same way you enter other items
+from the palette
+
+42
+00:03:41,360 --> 00:03:44,540
+What’s next is special, is the effects playback
+
+43
+00:03:49,360 --> 00:03:51,400
+Now let's add a tempo marking
+
+44
+00:03:52,820 --> 00:03:54,400
+Select the Tempo palette
+
+45
+00:03:55,220 --> 00:03:58,140
+Select the first note and doubleclick a tempo
+
+46
+00:04:03,380 --> 00:04:06,880
+and now we can double click it to edit it
+
+47
+00:04:09,400 --> 00:04:12,080
+We don't actually want to see that,
+it's going to be too cluttered
+
+48
+00:04:12,080 --> 00:04:15,780
+so we just click the visible button in the inspector
+
+49
+00:04:15,799 --> 00:04:17,999
+and it will not print out
+
+50
+00:04:19,739 --> 00:04:21,479
+Finally let's add a rehearsal mark
+
+51
+00:04:22,320 --> 00:04:25,980
+At the beginning of the solo, select the first note
+
+52
+00:04:25,980 --> 00:04:29,260
+and we use the shortcut-command M
+for the rehearsal mark
+
+53
+00:04:29,880 --> 00:04:34,560
+and then type B for our letter
+
+54
+00:04:36,000 --> 00:04:39,560
+So now all of the entries are done
+and the score is almost complete
+
+55
+00:04:39,570 --> 00:04:43,400
+In the next lesson we make it fill in the page nicely
+and take a look at the parts
+

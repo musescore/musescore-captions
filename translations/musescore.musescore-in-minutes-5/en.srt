@@ -1,0 +1,260 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes. 
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of 
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the 
+exciting new version of this program.
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen.
+
+8
+00:00:34,720 --> 00:00:37,840
+Lesson 5 - More Input Ideas
+
+9
+00:00:38,800 --> 00:00:43,860
+We’ve already looked at ways to enter notes
+using the mouse, keyboard, and a midi keyboard
+
+10
+00:00:43,870 --> 00:00:46,889
+But there are even better ways
+to get notes into MuseScore
+
+11
+00:00:46,889 --> 00:00:50,559
+In this video we are looking some ways
+to finish our melody very quickly
+
+12
+00:00:50,559 --> 00:00:53,309
+Let's start by taking a look at the entire melody
+
+13
+00:00:53,309 --> 00:00:57,449
+If you look closely, you notice that the rhythm
+of the first and second phrases are identical
+
+14
+00:00:57,449 --> 00:00:59,129
+but the pitches change
+
+15
+00:00:59,129 --> 00:01:02,949
+You also see that first half of the third phrase
+has the same rhythm
+
+16
+00:01:02,949 --> 00:01:06,180
+We start by using copy and paste
+
+17
+00:01:06,180 --> 00:01:11,020
+First we need to break up the rest,
+to make beat 4 visible in measure 4
+
+18
+00:01:11,030 --> 00:01:15,770
+Let's click on that whole rest, type a 6
+to break it in a half notes
+
+19
+00:01:15,770 --> 00:01:20,060
+and then select a 2nd one and type 5
+to turn it into quarter notes
+
+20
+00:01:21,080 --> 00:01:23,720
+I usually like to zoom in
+when I'm doing selecting work
+
+21
+00:01:23,729 --> 00:01:27,049
+So I'm going ahead and zoom in to 150%
+
+22
+00:01:27,049 --> 00:01:29,849
+And now, what I want to do is
+to select this phrase and copy it
+
+23
+00:01:29,849 --> 00:01:33,240
+So click on the pickup measure
+
+24
+00:01:33,249 --> 00:01:37,309
+hold the shift key down and select all that measure
+
+25
+00:01:37,309 --> 00:01:42,249
+Now type Cmd+C or Ctrl+C to copy it
+
+26
+00:01:42,249 --> 00:01:46,640
+Click on that last quarter rest
+and then Cmd+V or Ctrl+V to paste it
+
+27
+00:01:47,680 --> 00:01:51,560
+We are going to to the same thing in measure 8
+
+28
+00:01:58,400 --> 00:02:00,860
+So now, we have 3 identical phrases
+
+29
+00:02:00,860 --> 00:02:03,220
+If this were a Riff-Blues, we'd be done
+
+30
+00:02:03,220 --> 00:02:08,280
+But we still have to change the notes
+To do this, we use the repitching tool
+
+31
+00:02:08,280 --> 00:02:13,900
+Click the 1st note of the 2nd phrase
+Type N to enter note input mode
+
+32
+00:02:13,900 --> 00:02:18,760
+and then click the repitch tool right next to it
+
+33
+00:02:19,740 --> 00:02:24,920
+Now play the correct pitches for phrase 2
+and the first half of phrase 3
+
+34
+00:02:24,920 --> 00:02:27,560
+Don't chose any note values
+
+35
+00:02:34,060 --> 00:02:39,679
+When finished, click the repitch tool again
+to return to input mode
+
+36
+00:02:39,680 --> 00:02:43,850
+The melody ends with a measure of triplets
+Let's enter those now
+
+37
+00:02:43,850 --> 00:02:48,491
+If you are still in note input mode,
+press the Esc key
+
+38
+00:02:48,500 --> 00:02:53,920
+And then select measure 11, hold the shift key
+and select measure 12
+
+39
+00:02:54,120 --> 00:02:57,920
+Press the Backspace key to delete the notes
+
+40
+00:02:57,920 --> 00:03:00,860
+Click the whole rest
+
+41
+00:03:01,500 --> 00:03:06,240
+Now enter input mode again and type 6
+
+42
+00:03:07,440 --> 00:03:09,860
+then type Cmd+3 for a triplet
+
+43
+00:03:09,860 --> 00:03:13,380
+And you'll see, that we have now a quarter note triplet
+
+44
+00:03:14,480 --> 00:03:16,100
+Play the notes
+
+45
+00:03:18,720 --> 00:03:22,440
+Right now, we have to do Cmd+3 again
+for the next triplet
+
+46
+00:03:24,300 --> 00:03:26,140
+Press 6 first
+
+47
+00:03:34,260 --> 00:03:37,040
+And then our last note, the whole note
+
+48
+00:03:37,500 --> 00:03:42,080
+There is one more very important method of
+inputting music in MuseScore I need to mention
+
+49
+00:03:42,080 --> 00:03:44,080
+Importing
+
+50
+00:03:44,660 --> 00:03:47,260
+MuseScore has long supported the import and export
+
+51
+00:03:47,260 --> 00:03:50,200
+of more file formats than any other program
+
+52
+00:03:50,200 --> 00:03:53,560
+The list of supported formats is shown on the screen
+
+53
+00:03:53,560 --> 00:03:57,750
+There are thousands of these files
+available for free in the internet
+
+54
+00:03:57,750 --> 00:04:01,250
+The results you get from importing each type
+of those files will vary greatly
+
+55
+00:04:01,250 --> 00:04:03,090
+Some will be almost ready to use
+
+56
+00:04:03,090 --> 00:04:06,439
+and some need so much work
+that it's pretty much useless
+
+57
+00:04:06,439 --> 00:04:12,739
+In general MusicXML files will provide the
+best results that require the least amount of editing
+
+58
+00:04:12,740 --> 00:04:15,989
+But there are usable files in all formats

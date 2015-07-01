@@ -1,0 +1,146 @@
+0:00:05.419,0:00:06.979
+Welcome to MuseScore in Minutes
+
+0:00:06.979,0:00:11.439
+A series of short videos that will quickly
+get you up and running with MuseScore 2.0
+
+0:00:11.830,0:00:15.260
+I'm Dr. George Hess and in each of
+these videos we will look at how to use
+
+0:00:15.260,0:00:18.660
+some of the basic functions of the
+exciting new version of this program
+
+0:00:19.600,0:00:23.100
+MuseScore is a free and open source
+music notation program
+
+0:00:23.110,0:00:26.480
+that's a great alternative to Finale and Sibelius
+
+0:00:26.480,0:00:33.480
+You can download it for free
+at the website shown on the screen
+
+0:00:34.620,0:00:37.080
+Lesson 4: MIDI Keyboard Input
+
+0:00:38.540,0:00:42.960
+In the last lesson we covered basic note input
+using only the mouse and computer keyboard
+
+0:00:43.720,0:00:47.299
+This is fine, particularly when you are away
+from your workstation
+
+0:00:47.299,0:00:49.579
+But there are better ways to enter notes
+
+0:00:49.579,0:00:52.879
+The first one we'll look at is using a MIDI keyboard
+
+0:00:52.879,0:00:57.260
+This time we'll start by creating a new score
+and using the Jazz lead sheet template
+
+0:01:10.460,0:01:15.640
+We'll scroll down here and select the template
+
+0:01:15.930,0:01:19.409
+select our key, our pickup measure
+
+0:01:19.409,0:01:23.840
+Now let's go ahead
+and shorten this a bit to 13 measures
+
+0:01:23.840,0:01:26.340
+then click finish
+
+0:01:26.740,0:01:29.220
+Before we get started
+we need to open up the preferences
+
+0:01:29.220,0:01:33.260
+and make sure your MIDI keyboard
+is selected as the input device
+
+0:01:34.540,0:01:37.900
+Preferences are found under the Edit menu
+if you are on Windows
+
+0:01:37.909,0:01:44.909
+Select the I/O tab and then next to MIDI input,
+make sure your MIDI keyboard is selected
+
+0:01:44.960,0:01:49.340
+If not, select it from the drop down menu
+and then click OK
+
+0:01:50.300,0:01:52.630
+And you'll need it then to restart MuseScore
+
+0:01:52.729,0:01:54.849
+It's ok, we'll wait
+
+0:01:55.220,0:01:59.551
+This note input method is basically the same
+as with the virtual keyboard
+
+0:01:59.569,0:02:03.130
+You'll choose the note value,
+play the note on the MIDI keyboard
+
+0:02:03.130,0:02:04.030
+Remember the shortcuts
+
+0:02:04.040,0:02:07.900
+4 for an eighth note, 5 for a quarter,
+6 for a half and 7 for a whole
+
+0:02:08.900,0:02:12.580
+a period for a dotted note and Shift + for a tie
+
+0:02:12.590,0:02:16.210
+Remember to add the dot after entering the note value
+
+0:02:16.210,0:02:19.990
+and to select the trailing note value
+before entering the tie
+
+0:02:21.340,0:02:23.300
+So now let's enter the first phrase
+
+0:02:23.950,0:02:25.910
+First thing we need to do is split that rest
+
+0:02:25.910,0:02:28.100
+so we'll type 4 to split it
+
+0:02:28.100,0:02:30.420
+and then the arrow key to select it
+
+0:02:30.430,0:02:33.770
+Now we'll type N for note input entry mode
+
+0:02:33.770,0:02:35.770
+and we're ready to play
+
+0:02:39.720,0:02:42.380
+Type my half note before I type the tie
+
+0:02:45.840,0:02:48.500
+And add the dot before I enter the note
+
+0:02:57.180,0:02:58.660
+Now that didn't take long
+
+0:02:58.670,0:03:03.260
+For most people this method will be the fastest
+and feel the most comfortable
+
+0:03:03.260,0:03:06.980
+In the next lesson we'll look at a couple of ways
+to quickly finish our melody
+

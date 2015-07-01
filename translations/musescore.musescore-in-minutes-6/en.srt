@@ -1,0 +1,244 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of 
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the 
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,760 --> 00:00:37,880
+Lesson 6 - Text, Lyrics and Chords
+
+9
+00:00:39,240 --> 00:00:42,740
+Next we need to add chords and lyrics to our melody
+
+10
+00:00:42,740 --> 00:00:46,320
+In the course of writing the lyrics,
+I decided to change the title
+
+11
+00:00:46,329 --> 00:00:48,940
+So let's double click
+
+12
+00:00:48,940 --> 00:00:56,780
+I'm going to change that from
+"Blues for a while" to "Blues for Muse(Score)"
+
+13
+00:00:56,780 --> 00:00:58,620
+Now let's enter the lyrics
+
+14
+00:00:59,360 --> 00:01:01,339
+Lyrics are attached to notes
+
+15
+00:01:01,339 --> 00:01:05,139
+I'm going to zoom in just a bit to make it easier
+
+16
+00:01:06,180 --> 00:01:10,780
+Select the first note,
+and then right click underneath it
+
+17
+00:01:11,320 --> 00:01:15,600
+Select the text submenu 
+and you see there lyrics down at the bottom
+
+18
+00:01:15,600 --> 00:01:18,720
+Notice the shortcut Cmd + L / Ctrl + L
+
+19
+00:01:18,720 --> 00:01:21,420
+While we are at it, you should notice the
+shortcut for the chord symbol
+
+20
+00:01:21,420 --> 00:01:23,579
+We'll use that a little bit later
+
+21
+00:01:23,579 --> 00:01:26,119
+So now select lyrics
+
+22
+00:01:26,120 --> 00:01:29,260
+Type the first word 'I'
+
+23
+00:01:29,260 --> 00:01:31,720
+Then press the spacebar to move to the next note
+
+24
+00:01:34,460 --> 00:01:36,920
+We continue to enter the next couple of notes
+
+25
+00:01:39,640 --> 00:01:43,689
+The word 'blues' extends into the next note,
+the tied note
+
+26
+00:01:43,899 --> 00:01:51,710
+So to move to that, we are going to put an
+extension and that is Shift + Dash or Underscore
+
+27
+00:01:51,710 --> 00:01:55,259
+We do it once and then we do it one more time
+for the note that we are extending to
+
+28
+00:01:55,259 --> 00:01:58,219
+And that will take us to the next note
+
+29
+00:01:58,220 --> 00:02:01,600
+We are continuing entering the rest of the phrase
+
+30
+00:02:02,460 --> 00:02:03,740
+In the same way
+
+31
+00:02:04,920 --> 00:02:07,940
+Now 'MuseScore' is a two syllable word
+
+32
+00:02:07,950 --> 00:02:11,390
+To move to the next note use the Dash key
+
+33
+00:02:21,360 --> 00:02:23,540
+And again we need our extension here
+
+34
+00:02:23,540 --> 00:02:28,060
+So press Shift + Underscore twice
+
+35
+00:02:29,340 --> 00:02:31,940
+The second phrase is the same as the first
+
+36
+00:02:31,940 --> 00:02:35,160
+And as with notes, copy and paste is faster
+
+37
+00:02:35,170 --> 00:02:43,400
+Select any of the lyrics, and then right click
+to select all similar elements
+
+38
+00:02:43,400 --> 00:02:45,700
+Now everything is selected
+
+39
+00:02:45,700 --> 00:02:48,920
+Type Cmd or Ctrl + C to copy it
+
+40
+00:02:50,000 --> 00:02:56,810
+Click the first note of the second phrase
+and then type Cmd or Ctrl + V to paste it
+
+41
+00:02:57,040 --> 00:03:00,020
+Now click the first note of the last phrase
+
+42
+00:03:00,020 --> 00:03:04,160
+Type Cmd+L again and enter the rest of the lyrics
+
+43
+00:03:24,240 --> 00:03:26,760
+Chord Symbols are entered in much the same way
+
+44
+00:03:27,960 --> 00:03:31,240
+Click the first note of the first measure
+
+45
+00:03:31,240 --> 00:03:34,200
+And remember our shortcut Cmd + K
+
+46
+00:03:34,200 --> 00:03:37,240
+And we can enter our chord
+
+47
+00:03:40,020 --> 00:03:43,940
+We can then click the first note
+of the fourth measure
+
+48
+00:03:43,940 --> 00:03:47,260
+use the shortcut again and type that in
+
+49
+00:03:48,740 --> 00:03:50,960
+And right here we also do the same thing
+
+50
+00:04:00,520 --> 00:04:03,380
+You can also use the spacebar to advance
+
+51
+00:04:18,100 --> 00:04:22,020
+The last chord is a turnaround chord
+so we'll put that in parenthesis
+
+52
+00:04:26,260 --> 00:04:30,040
+You'll notice that MuseScore has done
+a pretty good job in fixing the layout already
+
+53
+00:04:30,900 --> 00:04:33,520
+Let's go ahead and delete this last measure
+
+54
+00:04:34,700 --> 00:04:39,320
+Go up to the edit menu, select measure,
+delete selected measures
+
+55
+00:04:39,320 --> 00:04:42,640
+The backspace key won't work here
+
+56
+00:04:44,220 --> 00:04:48,680
+Now that's perfect, we've got four measures
+on each line and our lead sheet is done
+

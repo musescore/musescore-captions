@@ -1,0 +1,199 @@
+0:00:05.420,0:00:07.120
+Welcome to MuseScore in Minutes.
+
+0:00:07.120,0:00:11.760
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+0:00:11.760,0:00:15.240
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+0:00:15.250,0:00:19.370
+some of the basic functions of the
+exciting new version of this program.
+
+0:00:19.400,0:00:23.040
+MuseScore is a free and open source
+music notation program
+
+0:00:23.040,0:00:26.420
+that's a great alternative to Finale and Sibelius
+
+0:00:26.420,0:00:30.120
+You can download it for free
+at the website shown on the screen.
+
+0:00:35.340,0:00:39.120
+Lesson 2 - Working with MuseScore
+
+0:00:39.360,0:00:42.720
+In this lesson, we’ll take a look at the
+interface and get a general idea
+
+0:00:42.720,0:00:44.700
+of how things work in MuseScore
+
+0:00:44.710,0:00:48.650
+For the most part, 
+MuseScore uses a single window interface
+
+0:00:48.650,0:00:52.510
+At the top of the screen
+are the redesigned menus
+
+0:00:52.510,0:00:56.880
+The toolbar at the top of the main window
+contains commonly used tools
+
+0:00:56.889,0:01:02.829
+The top row starts with some basic File menu functions
+and then the undo and redo buttons
+
+0:01:02.829,0:01:06.349
+Notice that tool tips appear 
+when you hover over an icon
+
+0:01:06.760,0:01:09.820
+The Zoom menu contains common settings
+
+0:01:09.820,0:01:11.820
+You can also use the shortcuts
+
+0:01:16.660,0:01:22.180
+to change the setting.
+Oh and by the way, zooming does not affect print size
+
+0:01:22.980,0:01:29.320
+The View control lets us choose between standard
+page view and the new continuous view
+
+0:01:29.520,0:01:32.720
+This is really useful for large scores
+
+0:01:32.720,0:01:37.020
+Next we have the Playback controls
+
+0:01:37.800,0:01:39.060
+a metronome
+
+0:01:40.040,0:01:42.040
+Concert Pitch
+
+0:01:42.540,0:01:44.720
+and the new Image Capture tool
+
+0:01:44.920,0:01:50.280
+You’ll find some of these can also be accessed
+from menus or by using shortcuts
+
+0:01:50.840,0:01:54.860
+The second row of the toolbar contains
+all of the note entry tools
+
+0:01:54.860,0:01:58.820
+We’ll be looking at note entry in the next lesson
+
+0:01:58.820,0:02:02.120
+You can customize the toolbar by right-clicking
+
+0:02:02.120,0:02:06.340
+and then selecting the items
+that you would like displayed
+
+0:02:07.880,0:02:11.320
+All other entries are entered from the palettes on the left
+
+0:02:11.460,0:02:13.000
+As we did in the first lesson
+
+0:02:13.000,0:02:15.260
+click on a palette name
+
+0:02:15.260,0:02:18.260
+choose the item and just drag it to the score
+
+0:02:18.260,0:02:20.600
+Some of these items have shortcuts
+
+0:02:20.600,0:02:23.660
+and you can customize the shortcuts in the Preferences
+
+0:02:23.660,0:02:26.220
+A new feature is custom workspaces
+
+0:02:26.220,0:02:29.680
+There are two built-in workspaces, 
+Basic and Advanced
+
+0:02:30.000,0:02:34.180
+You can also create your own workspace 
+using either your favorite built-in palettes
+
+0:02:34.180,0:02:37.240
+or ones you create yourself.
+
+0:02:37.250,0:02:40.110
+The inspector is also new in this version
+
+0:02:40.110,0:02:45.080
+Click on any item in the score
+and you’ll see its properties
+
+0:02:45.080,0:02:48.760
+You can hide items here,
+change the appearance
+
+0:02:48.760,0:02:51.860
+or precisely adjust the location
+
+0:02:52.220,0:02:55.800
+Double-click the title bar of the inspector
+or the palettes
+
+0:02:55.800,0:02:58.700
+and you create floating windows for them
+
+0:02:58.700,0:03:02.380
+Double-click the title bar again to redock them
+
+0:03:02.640,0:03:05.760
+The view menu contains other interface elements
+
+0:03:05.770,0:03:10.530
+The navigator makes it easy to move around 
+your score, particularly for larger scores
+
+0:03:11.860,0:03:13.720
+and the piano keyboard can make it easier
+
+0:03:13.720,0:03:16.620
+to enter notes when you don’t have 
+a MIDI keyboard available
+
+0:03:16.980,0:03:20.520
+Preferences are found in the 
+MuseScore menu on Mac OS
+
+0:03:20.520,0:03:23.300
+or under the Edit menu on Windows.
+
+0:03:23.740,0:03:27.920
+While MuseScore will run right out of the box, 
+it’s a good idea to know what’s here
+
+0:03:27.920,0:03:32.040
+We’ll take a look at this in a little more
+depth a little later on
+
+0:03:33.180,0:03:36.720
+So now you should have a pretty good idea
+where everything is in MuseScore
+
+0:03:36.720,0:03:38.680
+and should be ready to get down to work
+
+0:03:38.680,0:03:42.020
+In our next lesson,
+we’ll look at note entry methods
+

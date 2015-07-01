@@ -1,0 +1,58 @@
+[main]
+host = https://www.transifex.com
+
+[musescore.musescore-in-minutes-1]
+file_filter = translations/musescore.musescore-in-minutes-1/<lang>.sbv
+source_lang = en
+type = SBV
+
+[musescore.musescore-in-minutes-2]
+file_filter = translations/musescore.musescore-in-minutes-2/<lang>.sbv
+source_lang = en
+type = SBV
+
+[musescore.musescore-in-minutes-3]
+file_filter = translations/musescore.musescore-in-minutes-3/<lang>.sbv
+source_lang = en
+type = SBV
+
+[musescore.musescore-in-minutes-4]
+file_filter = translations/musescore.musescore-in-minutes-4/<lang>.sbv
+source_lang = en
+type = SBV
+
+[musescore.musescore-in-minutes-5]
+file_filter = translations/musescore.musescore-in-minutes-5/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-6]
+file_filter = translations/musescore.musescore-in-minutes-6/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-7]
+file_filter = translations/musescore.musescore-in-minutes-7/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-8]
+file_filter = translations/musescore.musescore-in-minutes-8/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-9]
+file_filter = translations/musescore.musescore-in-minutes-9/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-10]
+file_filter = translations/musescore.musescore-in-minutes-10/<lang>.srt
+source_lang = en
+type = SRT
+
+[musescore.musescore-in-minutes-11]
+file_filter = translations/musescore.musescore-in-minutes-11/<lang>.srt
+source_lang = en
+type = SRT
+

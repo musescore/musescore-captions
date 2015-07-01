@@ -1,0 +1,212 @@
+1
+00:00:04,910 --> 00:00:06,890
+Welcome to MuseScore in Minutes
+
+2
+00:00:07,080 --> 00:00:11,400
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+3
+00:00:11,400 --> 00:00:14,300
+I'm Dr. George Hess and in each of
+these videos will look at how to use
+
+4
+00:00:14,300 --> 00:00:19,540
+some of the basic functions of the
+exciting new version of this program
+
+5
+00:00:19,540 --> 00:00:23,040
+MuseScore is a free and open source
+music notation program,
+
+6
+00:00:23,040 --> 00:00:26,480
+that's a great alternative to Finale and Sibelius
+
+7
+00:00:26,480 --> 00:00:31,300
+You can download it for free
+at the website shown on the screen
+
+8
+00:00:34,100 --> 00:00:37,860
+Lesson 8: Repeats and Endings, Part 1
+
+9
+00:00:39,280 --> 00:00:41,360
+In this lesson we will take what we've done so far
+
+10
+00:00:41,360 --> 00:00:45,180
+and create an arrangement using copy,
+paste and various types of repeats
+
+11
+00:00:46,740 --> 00:00:50,800
+It will make it easier to follow along,
+if we turn on measure numbers first
+
+12
+00:00:50,800 --> 00:00:52,500
+Go up to the Style menu
+
+13
+00:00:52,510 --> 00:00:54,210
+Select General
+
+14
+00:00:54,940 --> 00:00:57,420
+Then check “Header, Footer, Numbers”
+
+15
+00:00:58,340 --> 00:01:04,000
+and then at the bottom tick “Measure Numbers”, “Interval”, and then set it to 1
+
+16
+00:01:08,780 --> 00:01:11,900
+Now we fill up the rhythm section
+and we will do the head
+
+17
+00:01:12,820 --> 00:01:19,119
+MuseScore has a very well hidden command,
+that will let us copy and paste at the same time
+
+18
+00:01:19,120 --> 00:01:23,580
+Let's select all of my measures for the rhythm
+section and if I type the key R
+
+19
+00:01:24,460 --> 00:01:27,440
+it copies and pastes it all in one stroke
+
+20
+00:01:28,409 --> 00:01:31,189
+So let us do that for all 12 measures
+
+21
+00:01:34,580 --> 00:01:36,440
+Our score is going get a little large
+
+22
+00:01:36,450 --> 00:01:40,370
+And so I think it will be easier to work 
+if we switch to continuous view
+
+23
+00:01:43,880 --> 00:01:47,940
+Now we use the transpose tool
+to create a chord progression
+
+24
+00:01:48,670 --> 00:01:52,920
+Going to measure 5, I am going to select
+measure 5 and 6 on the guitar and bass
+
+25
+00:01:52,920 --> 00:01:56,560
+and go up to the Notes menu and select Transpose
+
+26
+00:01:56,560 --> 00:01:58,940
+We will transpose it up by interval
+
+27
+00:01:58,949 --> 00:02:00,940
+and it's going up a Perfect Fourth
+
+28
+00:02:06,500 --> 00:02:13,440
+At measure 9 we will do the same thing,
+but we going to transpose it up a Perfect Fifth
+
+29
+00:02:19,080 --> 00:02:23,180
+And then we need to transpose
+measure 10 and measure 12 as well
+
+30
+00:02:25,960 --> 00:02:28,620
+It's pretty common to play the head of a blues twice
+
+31
+00:02:28,629 --> 00:02:31,549
+So let's go ahead and create first and second endings
+
+32
+00:02:31,549 --> 00:02:38,819
+We start out by using our repeat command,
+selecting measures 11 and 12 and type R
+
+33
+00:02:40,800 --> 00:02:44,760
+Next, go to the Barlines Palette
+
+34
+00:02:44,760 --> 00:02:48,580
+and select the backward repeat
+and drag it to measure 12
+
+35
+00:02:50,960 --> 00:02:56,740
+Go back to measure one and select the forward repeat
+and drag it to measure one
+
+36
+00:03:00,530 --> 00:03:02,450
+Now we go to the Lines Palette
+
+37
+00:03:03,340 --> 00:03:07,660
+I will select the first ending and drag it
+to measure 11
+
+38
+00:03:08,989 --> 00:03:11,289
+Now I need this to extend the measure 12
+
+39
+00:03:11,289 --> 00:03:18,659
+So I'm going to doubleclick and then hold
+the Shift key down and press the arrow key
+
+40
+00:03:18,659 --> 00:03:21,959
+Don't just drag it, it won't work,
+it won't play back correctly
+
+41
+00:03:22,480 --> 00:03:28,400
+Now we can drag the second ending to measure 13
+
+42
+00:03:28,840 --> 00:03:31,249
+We need to do just a little bit of touch up
+
+43
+00:03:31,249 --> 00:03:35,099
+Our first ending should have the pickup note
+added in the melody
+
+44
+00:03:35,099 --> 00:03:36,730
+So we go ahead and change that
+
+45
+00:03:47,960 --> 00:03:52,299
+And then also I'd like to go ahead
+and make the sound a little bit more like a turnaround
+
+46
+00:03:52,299 --> 00:03:57,359
+by putting a rest on the downbeat
+on the guitar and the bass
+
+47
+00:03:57,360 --> 00:03:58,940
+Just click on those and type 0
+

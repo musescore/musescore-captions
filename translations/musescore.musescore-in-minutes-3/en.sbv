@@ -1,0 +1,213 @@
+0:00:05.400,0:00:06.940
+Welcome to MuseScore in Minutes
+
+0:00:06.950,0:00:11.960
+A series of short videos that will quickly get
+you up and running with MuseScore 2.0
+
+0:00:11.960,0:00:15.360
+I'm Dr. George Hess and in each of
+these videos we will look at how to use
+
+0:00:15.360,0:00:19.180
+some of the basic functions of the
+exciting new version of this program
+
+0:00:19.680,0:00:22.620
+MuseScore is a free and open source
+music notation program
+
+0:00:22.630,0:00:26.250
+that's a great alternative to Finale and Sibelius
+
+0:00:26.600,0:00:29.880
+You can download it for free
+at the website shown on the screen
+
+0:00:36.370,0:00:39.550
+Lesson 3 - Note Input
+
+0:00:39.550,0:00:43.210
+There are a two basic ways to enter notes
+in MuseScore 2.0
+
+0:00:43.210,0:00:45.210
+mouse input and step input
+
+0:00:46.320,0:00:49.370
+The simplest method is to point and click
+with the mouse
+
+0:00:49.370,0:00:52.090
+You want to zoom in before you try this
+
+0:00:54.940,0:00:56.440
+Click the Note Input button
+
+0:00:57.360,0:00:58.180
+click a note value
+
+0:00:59.240,0:01:00.680
+and then click in the score
+
+0:01:02.100,0:01:05.880
+But to be honest, no one is ever going to use this method for more than a note or two
+
+0:01:05.880,0:01:06.920
+It’s just too slow
+
+0:01:07.760,0:01:10.620
+So let’s just jump right in and start learning
+some shortcuts
+
+0:01:11.429,0:01:15.449
+The keyboard shortcuts for note values are
+shown in the table in your screen
+
+0:01:15.860,0:01:21.371
+I suggest you just remember that
+5 is a quarter note (or crochet)
+
+0:01:21.380,0:01:25.179
+From there, it’s pretty easy to remember
+as the numbers go up the note values get larger
+
+0:01:25.179,0:01:27.359
+and as they down, they get smaller
+
+0:01:27.359,0:01:31.319
+With just a little practice,
+you’ll have all these under your fingers in no time
+
+0:01:32.020,0:01:34.200
+You can use either the numbers
+on the QWERTY keyboard
+
+0:01:34.209,0:01:36.509
+or on the keypad if you have one
+
+0:01:37.000,0:01:40.060
+So now let’s enter the first measure using the shortcuts
+
+0:01:41.500,0:01:45.840
+Let’s go ahead and delete this measure first.
+We just click on it and press the backspace key
+
+0:01:47.040,0:01:50.720
+Our first note is on the and of four,
+but we can’t see that right now
+
+0:01:50.920,0:01:52.840
+We’ll have to break this rest up
+
+0:01:52.840,0:01:56.840
+So I’m going to click on the rest
+and then type the shortcut 4
+
+0:01:56.840,0:02:01.030
+for eight note to divide it into two eighth notes
+
+0:02:02.500,0:02:04.500
+Use the arrow key to move to the and of four
+
+0:02:04.500,0:02:07.220
+and now we’re ready to enter in the first note
+
+0:02:07.220,0:02:10.220
+I’m going to type N to enter Note Input mode
+
+0:02:10.580,0:02:16.160
+The eighth note is already selected so all
+I have to do is click right there
+
+0:02:16.160,0:02:20.560
+This is a pretty simple melody and we could
+continue to just enter it using the mouse
+
+0:02:20.560,0:02:22.320
+but there are better ways
+
+0:02:22.940,0:02:25.200
+Just as there are shortcuts for note values
+
+0:02:25.200,0:02:30.380
+you can also use the computer keyboard to
+enter pitches by typing their letter names
+
+0:02:30.380,0:02:35.860
+Pitches will be diatonic so in this song
+typing D will result in D#
+
+0:02:35.860,0:02:43.020
+Use the down arrow to change it to D natural.
+Now type E, D, E
+
+0:02:44.440,0:02:46.920
+Notice that this time the D is natural
+
+0:02:47.700,0:02:53.380
+If you make a mistake,
+type backspace or Cmd or Ctrl + Z for undo
+
+0:02:55.000,0:02:56.760
+The next note is tied
+
+0:02:56.760,0:03:00.760
+MuseScore will automatically add the note
+on the back end of the tie
+
+0:03:00.760,0:03:04.020
+so select the note value of the second note first
+
+0:03:04.020,0:03:07.540
+in this case 6 for a half note
+
+0:03:08.500,0:03:11.860
+And now type shift = or +
+
+0:03:14.020,0:03:18.240
+MuseScore also has a virtual keyboard you
+can use to choose pitches
+
+0:03:18.250,0:03:22.710
+Go to the View menu and select Piano Keyboard
+or just type P
+
+0:03:23.540,0:03:26.860
+You’ll see the Middle C is indicated on
+the keyboard
+
+0:03:27.740,0:03:29.180
+Select the note value
+
+0:03:30.940,0:03:33.360
+and then play the note on the keyboard
+
+0:03:35.709,0:03:39.669
+For the next note, a dotted note, 
+choose the base value quarter note first
+
+0:03:41.220,0:03:44.720
+Then type period to add the dot
+
+0:03:44.720,0:03:47.160
+and then click on the keyboard
+
+0:03:48.870,0:03:53.030
+Now type 4 and enter the four 8th notes
+
+0:04:00.200,0:04:03.640
+Finally type 7 for a whole note
+
+0:04:04.500,0:04:09.860
+and then shift = or + for the tied note
+
+0:04:11.920,0:04:13.780
+So now we have our first phrase
+
+0:04:13.780,0:04:15.780
+In the next video we’ll complete the melody
+
+0:04:15.840,0:04:18.180
+using some methods that are even faster
+
