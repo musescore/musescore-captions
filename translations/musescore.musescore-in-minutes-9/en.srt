@@ -119,11 +119,11 @@ And we will go to the Repeat Palette
 28
 00:01:59,400 --> 00:02:02,940
 and select “D.S. al Coda”
-to take us back to the first measure measure
+to take us back to the first measure
 
 29
 00:02:08,820 --> 00:02:11,580
-Then I put a sign in measure 1
+Then I put a Segno in measure 1
 
 30
 00:02:14,680 --> 00:02:17,240
@@ -141,7 +141,7 @@ but we know where it's going to be
 33
 00:02:28,000 --> 00:02:33,760
 So it's going ahead and move down there
-and we will place the coda sign
+and we will place the Coda sign
 
 34
 00:02:33,760 --> 00:02:35,940
@@ -169,12 +169,12 @@ and then Select, All Similar Elements
 
 39
 00:03:13,530 --> 00:03:17,409
-Now thats going to cause a little bit of a problem
+Now that's going to cause a little bit of a problem
 because of these last two
 
 40
 00:03:17,409 --> 00:03:20,029
-and so I'm going to hold the command key
+and so I'm going to hold the Ctrl/Command key
 
 41
 00:03:20,930 --> 00:03:25,079
