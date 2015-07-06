@@ -54,12 +54,12 @@ Some also have shortcuts assigned
 
 13
 00:00:54,739 --> 00:00:57,380
-The pallet entries are attached to notes
+The pallete entries are attached to notes
 
 14
 00:00:57,380 --> 00:01:00,640
 Select the note first
-and double click the item in the pallet
+and double click the item in the pallete
 
 15
 00:01:01,329 --> 00:01:04,049
