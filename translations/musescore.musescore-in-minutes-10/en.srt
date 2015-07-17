@@ -59,7 +59,7 @@ The pallete entries are attached to notes
 14
 00:00:57,380 --> 00:01:00,640
 Select the note first
-and double click the item in the pallete
+and double-click the item in the pallete
 
 15
 00:01:01,329 --> 00:01:04,049
@@ -99,7 +99,7 @@ to the Articulations & Ornaments palette
 23
 00:01:59,459 --> 00:02:05,130
 and while that note is still selected,
-I'll doubleclick the accent and it will replace it direct too
+I'll double-click the accent and it will place it there too
 
 24
 00:02:07,720 --> 00:02:10,920
@@ -112,7 +112,7 @@ by selecting the notes
 
 26
 00:02:17,660 --> 00:02:19,120
-and then double clicking the fermata
+and then double-clicking the fermata
 
 27
 00:02:20,780 --> 00:02:24,020
@@ -134,7 +134,7 @@ Select a note, select the Tremolo
 
 31
 00:02:37,460 --> 00:02:38,640
-Double click
+Double-click
 
 32
 00:02:38,909 --> 00:02:41,750
@@ -147,7 +147,7 @@ on this very last line
 
 34
 00:02:52,620 --> 00:02:56,500
-And it's a line, so I select the palette, double click it
+And it's a line, so I select the palette, double-click it
 
 35
 00:02:58,400 --> 00:03:03,280
@@ -161,7 +161,7 @@ and are entered in the same way
 
 37
 00:03:09,870 --> 00:03:18,819
-Doubleclick and then use the right arrow key
+Double-click and then use the right arrow key
 to extend it to the end of the line
 
 38
@@ -197,11 +197,11 @@ Select the Tempo palette
 
 45
 00:03:55,220 --> 00:03:58,140
-Select the first note and doubleclick a tempo
+Select the first note and double-click a tempo
 
 46
 00:04:03,380 --> 00:04:06,880
-and now we can double click it to edit it
+and now we can double-click it to edit it
 
 47
 00:04:09,400 --> 00:04:12,080
