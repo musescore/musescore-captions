@@ -90,7 +90,7 @@ So let us do that for all 12 measures
 
 21
 00:01:34,580 --> 00:01:36,440
-Our score is going get a little large
+Our score is going to get a little large
 
 22
 00:01:36,450 --> 00:01:40,370
