@@ -111,12 +111,12 @@ hold the shift key down and select all that measure
 
 25
 00:01:37,309 --> 00:01:42,249
-Now type Cmd+C or Ctrl+C to copy it
+Now type Ctrl+C (Mac: Cmd+C) to copy it
 
 26
 00:01:42,249 --> 00:01:46,640
 Click on that last quarter rest
-and then Cmd+V or Ctrl+V to paste it
+and then Ctrl+V (Mac: Cmd+V) to paste it
 
 27
 00:01:47,680 --> 00:01:51,560
@@ -175,7 +175,7 @@ and select measure 12
 
 39
 00:02:54,120 --> 00:02:57,920
-Press the Backspace key to delete the notes
+Press Del (Mac: Backspace) to delete the notes
 
 40
 00:02:57,920 --> 00:03:00,860
@@ -187,7 +187,7 @@ Now enter input mode again and type 6
 
 42
 00:03:07,440 --> 00:03:09,860
-then type Cmd+3 for a triplet
+then type Ctrl+3 (Mac: Cmd) for a triplet
 
 43
 00:03:09,860 --> 00:03:13,380
@@ -199,7 +199,7 @@ Play the notes
 
 45
 00:03:18,720 --> 00:03:22,440
-Right now, we have to do Cmd+3 again
+Right now, we have to do Ctrl+3 (Mac: Cmd+3) again
 for the next triplet
 
 46

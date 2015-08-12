@@ -180,7 +180,7 @@ One special text entry is Swing
 
 41
 00:03:37,540 --> 00:03:40,340
-Entered the same way you enter other items
+Enter it the same way you enter other items
 from the palette
 
 42
@@ -226,7 +226,7 @@ At the beginning of the solo, select the first note
 
 52
 00:04:25,980 --> 00:04:29,260
-and we use the shortcut-command M
+and we use the shortcut Cmd/Ctrl-M
 for the rehearsal mark
 
 53

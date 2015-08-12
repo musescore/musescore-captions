@@ -131,16 +131,16 @@ We jump to the coda after measure 8
 
 31
 00:02:17,250 --> 00:02:20,230
-So put the “To Coda” sign there
+So we'll put the “To Coda” sign there
 
 32
 00:02:24,440 --> 00:02:28,000
-And we haven't actually created a coda yet,
+And we haven't actually created our coda yet,
 but we know where it's going to be
 
 33
 00:02:28,000 --> 00:02:33,760
-So it's going ahead and move down there
+So let's go ahead and move down there
 and we will place the Coda sign
 
 34
@@ -150,7 +150,7 @@ at the first empty measure
 35
 00:02:37,799 --> 00:02:43,619
 Finaly I'm going to copy a couple of measures
-and the word coda
+onto our coda
 
 36
 00:02:53,100 --> 00:02:56,300
@@ -199,7 +199,7 @@ and then I select the first measure of the bass
 
 46
 00:03:39,220 --> 00:03:40,580
-and past them in
+and paste them in
 
 47
 00:03:42,240 --> 00:03:43,760
@@ -224,5 +224,5 @@ Delete Selected Measures
 
 52
 00:04:04,879 --> 00:04:07,119
-There are arrangements also though
+Now, our arrangement is all set up
 
